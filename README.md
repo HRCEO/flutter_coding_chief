@@ -1,4 +1,5 @@
-# flutter_coding_chief
+### 유투브 코딩 쉐프 영상을 이용한 Flutter 기초 학습 
+
 
 
 
